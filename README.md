@@ -97,4 +97,9 @@ I love working on clean, well-structured codebases that support great UX and fas
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 steps to make a “Slide to unlock” button in Jetpack Compose](https://proandroiddev.com/6-steps-to-make-a-slide-to-unlock-button-in-jetpack-compose-ee9398cecf5f?source=rss-b69ba9cd4ff2------2)
+- [5 steps to implement MVI architecture with Jetpack Compose](https://blog.kotlin-academy.com/5-steps-to-implement-mvi-architecture-with-jetpack-compose-383c4f72406f?source=rss-b69ba9cd4ff2------2)
+- [5 steps to use Paging3 library with Jetpack Compose](https://blog.kotlin-academy.com/5-steps-to-use-paging3-library-with-jetpack-compose-6ecbceda6ff9?source=rss-b69ba9cd4ff2------2)
+- [Android Interview Series 2024 — Part 8 &lpar;Android architecture&rpar;](https://proandroiddev.com/android-interview-series-2024-part-8-android-architecture-07ca74eee000?source=rss-b69ba9cd4ff2------2)
+- [Android Interview Series 2024 — Part 7 &lpar;Jetpack Compose&rpar;](https://proandroiddev.com/android-interview-series-2024-part-7-jetpack-compose-ff7d2ecd9018?source=rss-b69ba9cd4ff2------2)
 <!-- BLOG-POST-LIST:END -->
