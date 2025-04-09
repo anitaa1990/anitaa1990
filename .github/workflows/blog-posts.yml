@@ -1,15 +1,20 @@
 name: Latest blog post workflow
+
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:
+  workflow_dispatch:     # Allow manual triggering
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest Medium posts
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@anitaa_1990"
+          max_post_count: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
