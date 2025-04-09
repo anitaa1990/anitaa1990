@@ -24,6 +24,7 @@ I love working on clean, well-structured codebases that support great UX and fas
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dagger](https://img.shields.io/badge/-Dagger-00C7B7?style=for-the-badge&logo=dagger&logoColor=white)
 ![Hilt](https://img.shields.io/badge/-Hilt-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-8E44AD?style=for-the-badge&logo=w3c&logoColor=white)
@@ -87,7 +88,6 @@ I love working on clean, well-structured codebases that support great UX and fas
 #### 🧩 Productivity & Collaboration
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack)
